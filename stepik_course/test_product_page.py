@@ -13,3 +13,5 @@ def test_guest_can_add_product_to_basket(browser):
     page.assert_book_name()
     page.assert_item_price()
     # time.sleep(600)
+
+#test
